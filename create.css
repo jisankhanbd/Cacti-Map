@@ -5,7 +5,7 @@ html, body {
 }
 
 input:focus {
-  outline: 0px solid green;
+  outline: 0px solid rgb(221, 17, 194);
   caret-color: transparent;
 }
 
